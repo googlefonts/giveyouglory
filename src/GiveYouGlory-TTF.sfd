@@ -7781,7 +7781,7 @@ Width: 467
 Flags: W
 LayerCount: 2
 Fore
-Refer: 34 63 N -0.702942 0 0 -0.938049 309 744 2
+Refer: 34 63 N -0.702942 0 0 -0.938049 310 744 2
 EndChar
 
 StartChar: Agrave
@@ -9321,8 +9321,8 @@ Width: 434
 Flags: W
 LayerCount: 2
 Fore
-Refer: 29 58 N 1 0 0 1 98 0 2
-Refer: 349 8722 N 1 0 0 1 -22 88 2
+Refer: 29 58 N 1 0 0 1 99 0 2
+Refer: 349 8722 N 1 0 0 1 -21 88 2
 EndChar
 
 StartChar: oslash
